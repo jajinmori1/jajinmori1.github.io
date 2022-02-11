@@ -14,7 +14,7 @@ tags: [object detection, custom dataset, centernet]
 
 이미지 분류(Image Classification) 문제란 주어진 이미지에 대해 사전에 정해진 레이블(label) 집합의 한 원소를 할당하는 문제이다. 
 이 문제는 컴퓨터 비전 영역의 핵심 문제 중 하나로서, 문제의 단순함에도 불구하고 다양한 응용 분야를 가지고 있다.
-![Untitled](../assets/img/Untitled.png)
+
 
 ## 프로젝트의 목적
 의료같은 전문지식이 필요한 분야에서는 무엇보다 전문가의 지식과 경험이 중요하다. 이 모든것은 인간의 초월적인 감각에 의존하는 것이 아닌 오로지 데이터에 기반한 학문이라는 것이다.
