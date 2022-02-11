@@ -5,7 +5,7 @@ subtitle: Custom Dataset에 대한 image classification 프로젝트
 cover-img: /assets/img/x-ray_thumb.png
 thumbnail-img: /assets/img/x-ray_thumb.png
 share-img: /assets/img/x-ray_thumb.png
-tags: [object detection, custom dataset, centernet]
+tags: [transferlearning, custom dataset, vgg16]
 ---
 
 # x-ray 폐렴 진단 프로젝트 - image classification
