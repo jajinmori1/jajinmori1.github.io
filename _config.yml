@@ -16,7 +16,8 @@ author: 최환석
 navbar-links:
   About Me: "aboutme"
   AI Portfolio:
-    - Airbnb Amenity Detection: "2021-07-05-airbnb-clone-project-amenity-detection"
+    - Airbnb Amenity Detection: "2022-01-15-airbnb-clone-project-amenity-detection"
+    - X-ray classification: "x-ray_classification"
 
 # --- Logo --- #
 
